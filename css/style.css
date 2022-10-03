@@ -1,0 +1,48 @@
+.img-card-fit {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+.img-cont {
+    height: 200px;
+    overflow: hidden;
+    background-color: beige;
+}
+
+.card-content{
+    height: 150px;
+    overflow: auto;
+}
+
+main {
+    min-height: calc(100vh - 100px);
+  }
+
+.checked{
+    color: orange;
+}
+
+.offcanvas-top{
+    height: fit-content;
+    color: #212529;
+}
+
+.list-group-item{
+    color: #f8f9fa;
+    background-color: #212529;
+}
+
+#tagline{
+    color: #6c757d;
+    font-style: italic;
+}
+
+#title_stars{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+
+
